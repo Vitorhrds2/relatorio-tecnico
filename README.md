@@ -151,15 +151,15 @@ O objetivo desta etapa é aprender sobre branches (ramificações) no GitHub e c
 
 ![Screenshot 2023-08-07 042759.png](https://github.com/Vitorhrds2/relatorio-tecnico/blob/main/Screenshots/Screenshot%202023-08-07%20042759.png)
 
-![Screenshot 2023-08-07 042208.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/badfd89f-f273-45e3-a350-91dc2e442c1c/Screenshot_2023-08-07_042208.png)
+![Screenshot 2023-08-07 042208.png](https://github.com/Vitorhrds2/relatorio-tecnico/blob/main/Screenshots/Screenshot%202023-08-07%20042208.png)
 
-![Screenshot 2023-08-07 042219.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/10b2dd85-4fe5-4ff3-8082-5ca98bbc1a3d/Screenshot_2023-08-07_042219.png)
+![Screenshot 2023-08-07 042219.png](https://github.com/Vitorhrds2/relatorio-tecnico/blob/main/Screenshots/Screenshot%202023-08-07%20042219.png)
 
-![Screenshot 2023-08-07 042313.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/35624b22-44be-4a48-96b3-2968625f8d30/Screenshot_2023-08-07_042313.png)
+![Screenshot 2023-08-07 042313.png](https://github.com/Vitorhrds2/relatorio-tecnico/blob/main/Screenshots/Screenshot%202023-08-07%20042313.png)
 
-![Screenshot 2023-08-07 042449.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/355f07fd-7b5f-497d-86db-24ec5efba84e/Screenshot_2023-08-07_042449.png)
+![Screenshot 2023-08-07 042449.png](https://github.com/Vitorhrds2/relatorio-tecnico/blob/main/Screenshots/Screenshot%202023-08-07%20042449.png)
 
-![Screenshot 2023-08-07 042759.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/bb210d05-4385-41a2-ac10-5589cb743421/Screenshot_2023-08-07_042759.png)
+![Screenshot 2023-08-07 042759.png](https://github.com/Vitorhrds2/relatorio-tecnico/blob/main/Screenshots/Screenshot%202023-08-07%20042759.png)
 
 Nesta etapa eu criei uma nova “branch” baseada na main. Dentro dela, realizei uma alteração no final do arquivo [README.md](http://README.md) através do editor de código do GitHub, comparei as alterações com a versão anterior e fiz o “commit” direto na branch-secundaria.
 
@@ -189,19 +189,19 @@ O objetivo desta etapa é aprender como fazer um pull de uma branch específica 
 
 ![Screenshot 2023-08-07 044313.png](https://github.com/Vitorhrds2/relatorio-tecnico/blob/main/Screenshots/Screenshot%202023-08-07%20044313.png)
 
-![Screenshot 2023-08-07 044011.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/7ca6db58-8494-4512-846b-30feeec99aee/Screenshot_2023-08-07_044011.png)
+![Screenshot 2023-08-07 044011.png](https://github.com/Vitorhrds2/relatorio-tecnico/blob/main/Screenshots/Screenshot%202023-08-07%20044011.png)
 
-![Screenshot 2023-08-07 044042.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/39a6fd03-2640-4253-baa9-09cb89628cdd/Screenshot_2023-08-07_044042.png)
+![Screenshot 2023-08-07 044042.png](https://github.com/Vitorhrds2/relatorio-tecnico/blob/main/Screenshots/Screenshot%202023-08-07%20044042.png)
 
-![Screenshot 2023-08-07 044102.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/b25a3404-9979-489a-962f-8ed8cebe63cf/Screenshot_2023-08-07_044102.png)
+![Screenshot 2023-08-07 044102.png](https://github.com/Vitorhrds2/relatorio-tecnico/blob/main/Screenshots/Screenshot%202023-08-07%20044102.png)
 
-![Screenshot 2023-08-07 044129.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/3c166535-d995-4850-9895-b17c51937dc4/Screenshot_2023-08-07_044129.png)
+![Screenshot 2023-08-07 044129.png](https://github.com/Vitorhrds2/relatorio-tecnico/blob/main/Screenshots/Screenshot%202023-08-07%20044129.png)
 
-![Screenshot 2023-08-07 044223.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/54e5fae4-ca3c-46d9-8acd-a6b12013cd4c/Screenshot_2023-08-07_044223.png)
+![Screenshot 2023-08-07 044223.png](https://github.com/Vitorhrds2/relatorio-tecnico/blob/main/Screenshots/Screenshot%202023-08-07%20044223.png)
 
-![Screenshot 2023-08-07 044302.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/610818a0-b49c-4a2d-947b-136e34c92b6c/Screenshot_2023-08-07_044302.png)
+![Screenshot 2023-08-07 044302.png](https://github.com/Vitorhrds2/relatorio-tecnico/blob/main/Screenshots/Screenshot%202023-08-07%20044302.png)
 
-![Screenshot 2023-08-07 044313.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f5745696-fad0-46ef-8e11-eb712d860c18/Screenshot_2023-08-07_044313.png)
+![Screenshot 2023-08-07 044313.png](https://github.com/Vitorhrds2/relatorio-tecnico/blob/main/Screenshots/Screenshot%202023-08-07%20044313.png)
 
 Depois de criar uma branch através da interface, podemos ver que ela está disponível utilizando a linha de comando. Utilizo o “git pull” para puxar as alterações existente e logo percebo que uma nova branch foi criada.
 
