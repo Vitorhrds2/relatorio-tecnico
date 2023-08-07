@@ -93,3 +93,23 @@ Em seguida verifico as diferenças entre a origem do repositório na branch main
 Depois de ver as diferenças, realizo um “merge” para mesclar os repositórios no meu local, percebe-se que as alterações foram feitas, com 37 inserções e 2 exclusões.
 
 Depois dos passos anteriores, verifiquei o arquivo que foi atualizado, percebi a mudança e após inserir o comando “git status” noto que o “branch” local está atualizado com o “origin/main” e sem novos commits.
+
+Para finalizar a etapa, realizo um novo commit direto pela interface gráfica do GitHub e digito “git pull origin” na linha de comando do windows. “Pull” é uma combinação do fetch(buscar) e merge(meclar), tendo o intuito de atualizar o repositório local pegando novas inserções de código, pastas e arquivos do repositório de origem.
+
+### Conclusão
+
+Por mais que utilizar o pull para obter novas atualizações de um repositório seja bem prático, é possível perceber que outras etapas podem ser seguidas e sendo assim notar diversas informações, como versões existente de um código para assim escolher qual deseja-se puxar ou apenas verificar quando os “commits” foram realizados. No mais, foi bem interessante notar a diferença de uso das interfaces e linha de comando para controlar versões de um projeto.
+
+## Etapa 4: Push to GitHub
+
+### Objetivo
+
+O objetivo desta etapa é aprender como fazer um push (enviar) do código do repositório local para o repositório remoto no GitHub.
+
+### Resultados
+
+![Screenshot 2023-08-07 005346.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/10859508-3e54-4494-969a-64ae87030be5/Screenshot_2023-08-07_005346.png)
+
+![Screenshot 2023-08-07 010211.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/98da0fb0-b3d8-4da6-b3e6-2e0cd185ab75/Screenshot_2023-08-07_010211.png)
+
+Primeiro estou fazendo algumas mudanças no repositório local, criei a pasta Screenshots e copiei todas as capturas de tela feitas para o relatório até agora para a nova pasta. Em seguida adiciono os arquivos da pasta Screenshots ao “staged” digitando “git add Screenshots/” na linha de comando pois o diretório foi criado, mas o Git ainda não está rastreando o conteúdo. Após fazer com que o conteúdo seja rastreado, faço o commit descrevendo quais foram as mudanças locais feitas e que serão enviadas para a origem. As atualizações são mostradas corretamente.
