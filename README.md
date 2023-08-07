@@ -120,10 +120,13 @@ O objetivo desta etapa é aprender como fazer um push (enviar) do código do rep
 
 ![Screenshot 2023-08-07 010211.png](https://github.com/Vitorhrds2/relatorio-tecnico/blob/main/Screenshots/Screenshot%202023-08-07%20010211.png)
 
+<<<<<<< HEAD
 ![Screenshot 2023-08-07 035008.png](https://github.com/Vitorhrds2/relatorio-tecnico/blob/main/Screenshots/Screenshot%202023-08-07%20035008.png)
 
 ![Screenshot 2023-08-07 041055.png](https://github.com/Vitorhrds2/relatorio-tecnico/blob/main/Screenshots/Screenshot%202023-08-07%20041055.png)
 
+=======
+>>>>>>> f77a225bb8dbcf6b7777752d7942689300cffc94
 Primeiro estou fazendo algumas mudanças no repositório local, criei a pasta Screenshots e copiei todas as capturas de tela feitas para o relatório até agora para a nova pasta. Em seguida adiciono os arquivos da pasta Screenshots ao “staged” digitando “git add Screenshots/” na linha de comando pois o diretório foi criado, mas o Git ainda não está rastreando o conteúdo. Após fazer com que o conteúdo seja rastreado, faço o commit descrevendo quais foram as mudanças locais feitas e que serão enviadas para a origem. As atualizações são mostradas corretamente.
 
 Depois de fazer o “commit” pude verificar o status do “branch” local, que estava com um commit à frente da origem, e sendo recomendado a realizar o “push(empurrar)” para que atualizasse o “branch” principal da origem.
@@ -142,6 +145,7 @@ O objetivo desta etapa é aprender sobre branches (ramificações) no GitHub e c
 
 ### Resultados
 
+<<<<<<< HEAD
 ![Screenshot 2023-08-07 042208.png](https://github.com/Vitorhrds2/relatorio-tecnico/blob/main/Screenshots/Screenshot%202023-08-07%20042208.png)
 
 ![Screenshot 2023-08-07 042219.png](https://github.com/Vitorhrds2/relatorio-tecnico/blob/main/Screenshots/Screenshot%202023-08-07%20042219.png)
@@ -151,6 +155,17 @@ O objetivo desta etapa é aprender sobre branches (ramificações) no GitHub e c
 ![Screenshot 2023-08-07 042449.png](https://github.com/Vitorhrds2/relatorio-tecnico/blob/main/Screenshots/Screenshot%202023-08-07%20042449.png)
 
 ![Screenshot 2023-08-07 042759.png](https://github.com/Vitorhrds2/relatorio-tecnico/blob/main/Screenshots/Screenshot%202023-08-07%20042759.png)
+=======
+![Screenshot 2023-08-07 042208.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/badfd89f-f273-45e3-a350-91dc2e442c1c/Screenshot_2023-08-07_042208.png)
+
+![Screenshot 2023-08-07 042219.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/10b2dd85-4fe5-4ff3-8082-5ca98bbc1a3d/Screenshot_2023-08-07_042219.png)
+
+![Screenshot 2023-08-07 042313.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/35624b22-44be-4a48-96b3-2968625f8d30/Screenshot_2023-08-07_042313.png)
+
+![Screenshot 2023-08-07 042449.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/355f07fd-7b5f-497d-86db-24ec5efba84e/Screenshot_2023-08-07_042449.png)
+
+![Screenshot 2023-08-07 042759.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/bb210d05-4385-41a2-ac10-5589cb743421/Screenshot_2023-08-07_042759.png)
+>>>>>>> f77a225bb8dbcf6b7777752d7942689300cffc94
 
 Nesta etapa eu criei uma nova “branch” baseada na main. Dentro dela, realizei uma alteração no final do arquivo [README.md](http://README.md) através do editor de código do GitHub, comparei as alterações com a versão anterior e fiz o “commit” direto na branch-secundaria.
 
@@ -166,6 +181,7 @@ O objetivo desta etapa é aprender como fazer um pull de uma branch específica 
 
 ### Resultados
 
+<<<<<<< HEAD
 ![Screenshot 2023-08-07 044011.png](https://github.com/Vitorhrds2/relatorio-tecnico/blob/main/Screenshots/Screenshot%202023-08-07%20044011.png)
 
 ![Screenshot 2023-08-07 044042.png](https://github.com/Vitorhrds2/relatorio-tecnico/blob/main/Screenshots/Screenshot%202023-08-07%20044042.png)
@@ -179,6 +195,21 @@ O objetivo desta etapa é aprender como fazer um pull de uma branch específica 
 ![Screenshot 2023-08-07 044302.png](https://github.com/Vitorhrds2/relatorio-tecnico/blob/main/Screenshots/Screenshot%202023-08-07%20044302.png)
 
 ![Screenshot 2023-08-07 044313.png](https://github.com/Vitorhrds2/relatorio-tecnico/blob/main/Screenshots/Screenshot%202023-08-07%20044313.png)
+=======
+![Screenshot 2023-08-07 044011.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/7ca6db58-8494-4512-846b-30feeec99aee/Screenshot_2023-08-07_044011.png)
+
+![Screenshot 2023-08-07 044042.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/39a6fd03-2640-4253-baa9-09cb89628cdd/Screenshot_2023-08-07_044042.png)
+
+![Screenshot 2023-08-07 044102.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/b25a3404-9979-489a-962f-8ed8cebe63cf/Screenshot_2023-08-07_044102.png)
+
+![Screenshot 2023-08-07 044129.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/3c166535-d995-4850-9895-b17c51937dc4/Screenshot_2023-08-07_044129.png)
+
+![Screenshot 2023-08-07 044223.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/54e5fae4-ca3c-46d9-8acd-a6b12013cd4c/Screenshot_2023-08-07_044223.png)
+
+![Screenshot 2023-08-07 044302.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/610818a0-b49c-4a2d-947b-136e34c92b6c/Screenshot_2023-08-07_044302.png)
+
+![Screenshot 2023-08-07 044313.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f5745696-fad0-46ef-8e11-eb712d860c18/Screenshot_2023-08-07_044313.png)
+>>>>>>> f77a225bb8dbcf6b7777752d7942689300cffc94
 
 Depois de criar uma branch através da interface, podemos ver que ela está disponível utilizando a linha de comando. Utilizo o “git pull” para puxar as alterações existente e logo percebo que uma nova branch foi criada.
 
@@ -194,6 +225,7 @@ Utilizando o “git branch” de novo, verifiquei que ambas ramificações estã
 
 ### Conclusão
 
+<<<<<<< HEAD
 Foi um processo muito interessante pois entendi o valor de puxar uma branch ramota para trabalhar localmente nela, isso me possibilita trabalhar de forma muito mais prática com outras pessoas. O tutorial foi bem intuitivo e relevante.
 
 ## Etapa 7: Push Branch to GitHub
@@ -247,3 +279,6 @@ A funcionalidade de mandar “branhes” para o GitHub entrega inúmeras possibi
 ## Conclusão Geral
 
 De forma geral o tutorial foi de grande valia, me trouxe segurança em utilizar o Git e o GitHub através da linha de comando, durante a realização do tutorial percebi outros efeitos que podem ocasionar falhas ou atrasos na execução de um comando e consegui resolvê-los. É perceptiível o valor do controle de versões de projetos, eles precisam estar seguros, especialmente em desenvolvimento escalado, no qual múltiplas equipes trabalham entregando partes diferentes de uma mesma plataforma, aplicação, protótipo, dentre outros. Foi um conhecimento que será aplicado em projetos futuros, de forma recorrente. Estive utilzando controle de versão de forma que não garantisse um backup seguro de cada alteração realizada, por menor que fosse, e agora planejo unir a prática mais recorrente de controle de versão à uma estrutura mais limpa e organizada aos projetos futuros.
+=======
+Foi um processo muito interessante pois entendi o valor de puxar uma branch ramota para trabalhar localmente nela, isso me possibilita trabalhar de forma muito mais prática com outras pessoas. O tutorial foi bem intuitivo e relevante.
+>>>>>>> f77a225bb8dbcf6b7777752d7942689300cffc94
