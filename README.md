@@ -12,15 +12,15 @@ O objetivo desta etapa é fornecer uma introdução ao GitHub e seus conceitos b
 
 ### Resultados
 
-![Screenshot 2023-08-06 212243.png](https://github.com/Vitorhrds2/relatorio-tecnico/Screenshots/Screenshot_2023-08-06_212243.png)
+![Screenshot 2023-08-06 212243.png](https://github.com/Vitorhrds2/relatorio-tecnico/blob/main/Screenshots/Screenshot%202023-08-06%20212243.png)
 
-![Screenshot 2023-08-06 212307.png](https://github.com/Vitorhrds2/relatorio-tecnico/Screenshots/Screenshot_2023-08-06_212307.png)
+![Screenshot 2023-08-06 212307.png](https://github.com/Vitorhrds2/relatorio-tecnico/blob/main/Screenshots/Screenshot%202023-08-06%20212307.png)
 
-![Screenshot 2023-08-06 212432.png](https://github.com/Vitorhrds2/relatorio-tecnico/Screenshots/Screenshot_2023-08-06_212432.png)
+![Screenshot 2023-08-06 212432.png](https://github.com/Vitorhrds2/relatorio-tecnico/blob/main/Screenshots/Screenshot%202023-08-06%20212432.png)
 
-![Screenshot 2023-08-06 213049.png](https://github.com/Vitorhrds2/relatorio-tecnico/Screenshots/Screenshot_2023-08-06_213049.png)
+![Screenshot 2023-08-06 213049.png](https://github.com/Vitorhrds2/relatorio-tecnico/blob/main/Screenshots/Screenshot%202023-08-06%20213049.png)
 
-![Screenshot 2023-08-06 221914.png](https://github.com/Vitorhrds2/relatorio-tecnico/Screenshots/Screenshot_2023-08-06_221914.png)
+![Screenshot 2023-08-06 221914.png](https://github.com/Vitorhrds2/relatorio-tecnico/blob/main/Screenshots/Screenshot%202023-08-06%20221914.png)
 
 Nesta etapa eu crio um novo repositório no GitHub, defino um nome, deixo público e deixo marcada a opção de criar um arquivo README.
 
@@ -44,13 +44,13 @@ O objetivo desta etapa é aprender a fazer edições em um repositório do GitHu
 
 ### Resultados
 
-![Screenshot 2023-08-06 230406.png](https://github.com/Vitorhrds2/relatorio-tecnico/Screenshots/Screenshot_2023-08-06_230406.png)
+![Screenshot 2023-08-06 230406.png](https://github.com/Vitorhrds2/relatorio-tecnico/blob/main/Screenshots/Screenshot%202023-08-06%20230406.png)
 
-![Screenshot 2023-08-06 231559.png](https://github.com/Vitorhrds2/relatorio-tecnico/Screenshots/Screenshot_2023-08-06_231559.png)
+![Screenshot 2023-08-06 231559.png](https://github.com/Vitorhrds2/relatorio-tecnico/blob/main/Screenshots/Screenshot%202023-08-06%20231559.png)
 
-![Screenshot 2023-08-06 231740.png](https://github.com/Vitorhrds2/relatorio-tecnico/Screenshots/Screenshot_2023-08-06_231740.png)
+![Screenshot 2023-08-06 231740.png](https://github.com/Vitorhrds2/relatorio-tecnico/blob/main/Screenshots/Screenshot%202023-08-06%20231740.png)
 
-![Screenshot 2023-08-06 231847.png](https://github.com/Vitorhrds2/relatorio-tecnico/Screenshots/Screenshot_2023-08-06_231847.png)
+![Screenshot 2023-08-06 231847.png](https://github.com/Vitorhrds2/relatorio-tecnico/blob/main/Screenshots/Screenshot%202023-08-06%20231847.png)
 
 Ao cliar na opção de editar(ícone de lápis), fui apto a utilizar o editor de código do GitHub e dentro do editor, alterei o texto contigo anteriormente pela seção e etapa 1 do relatório.
 
@@ -68,19 +68,19 @@ O objetivo desta etapa é aprender como fazer um pull (puxar) do código de um r
 
 ### Resultados
 
-![Screenshot 2023-08-06 233834.png](https://github.com/Vitorhrds2/relatorio-tecnico/Screenshots/Screenshot_2023-08-06_233834.png)
+![Screenshot 2023-08-06 233834.png](https://github.com/Vitorhrds2/relatorio-tecnico/blob/main/Screenshots/Screenshot%202023-08-06%20233834.png)
 
-![Screenshot 2023-08-06 233847.png](https://github.com/Vitorhrds2/relatorio-tecnico/Screenshots/Screenshot_2023-08-06_233847.png)
+![Screenshot 2023-08-06 233847.png](https://github.com/Vitorhrds2/relatorio-tecnico/blob/main/Screenshots/Screenshot%202023-08-06%20233847.png)
 
-![Screenshot 2023-08-06 233942.png](https://github.com/Vitorhrds2/relatorio-tecnico/Screenshots/Screenshot_2023-08-06_233942.png)
+![Screenshot 2023-08-06 233942.png](https://github.com/Vitorhrds2/relatorio-tecnico/blob/main/Screenshots/Screenshot%202023-08-06%20233942.png)
 
-![Screenshot 2023-08-06 234037.png](https://github.com/Vitorhrds2/relatorio-tecnico/Screenshots/Screenshot_2023-08-06_234037.png)
+![Screenshot 2023-08-06 234037.png](https://github.com/Vitorhrds2/relatorio-tecnico/blob/main/Screenshots/Screenshot%202023-08-06%20234037.png)
 
-![Screenshot 2023-08-06 234510.png](https://github.com/Vitorhrds2/relatorio-tecnico/Screenshots/Screenshot_2023-08-06_234510.png)
+![Screenshot 2023-08-06 234510.png](https://github.com/Vitorhrds2/relatorio-tecnico/blob/main/Screenshots/Screenshot%202023-08-06%20234510.png)
 
-![Screenshot 2023-08-06 234541.png](https://github.com/Vitorhrds2/relatorio-tecnico/Screenshots/Screenshot_2023-08-06_234541.png)
+![Screenshot 2023-08-06 234541.png](https://github.com/Vitorhrds2/relatorio-tecnico/blob/main/Screenshots/Screenshot%202023-08-06%20234541.png)
 
-![Screenshot 2023-08-06 234600.png](https://github.com/Vitorhrds2/relatorio-tecnico/Screenshots/Screenshot_2023-08-06_234600.png)
+![Screenshot 2023-08-06 234600.png](https://github.com/Vitorhrds2/relatorio-tecnico/blob/main/Screenshots/Screenshot%202023-08-06%20234600.png)
 
 Primeiro eu ful na linha de comando do windows e inserio o comando “git fetch origin” para realizar uma busca no repositório de origem.
 
