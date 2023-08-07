@@ -1,3 +1,5 @@
+# Relatório Técnico
+
 # Relatório Técnico - Tutorial do GitHub
 
 ## Introdução
@@ -82,6 +84,12 @@ O objetivo desta etapa é aprender como fazer um pull (puxar) do código de um r
 
 ![Screenshot 2023-08-06 234600.png](https://github.com/Vitorhrds2/relatorio-tecnico/blob/main/Screenshots/Screenshot%202023-08-06%20234600.png)
 
+![Screenshot 2023-08-07 003105.png](https://github.com/Vitorhrds2/relatorio-tecnico/blob/main/Screenshots/Screenshot%202023-08-07%20003105.png)
+
+![Screenshot 2023-08-07 003205.png](https://github.com/Vitorhrds2/relatorio-tecnico/blob/main/Screenshots/Screenshot%202023-08-07%20003205.png)
+
+[]()
+
 Primeiro eu ful na linha de comando do windows e inserio o comando “git fetch origin” para realizar uma busca no repositório de origem.
 
 Após fazer a busca, realizei uma verificação do status do repositório através do comando “git status” e com isso foi possível perceber que o repositório local estava com um commit(entrega) pendente em relação à origem para estar atualizado. Foi eferecida a opção de dar “pull(puxar)” para atualizar o branch local, porém só farei isto posteriormente ao testar o comando merge(mesclar).
@@ -112,4 +120,130 @@ O objetivo desta etapa é aprender como fazer um push (enviar) do código do rep
 
 ![Screenshot 2023-08-07 010211.png](https://github.com/Vitorhrds2/relatorio-tecnico/blob/main/Screenshots/Screenshot%202023-08-07%20010211.png)
 
+![Screenshot 2023-08-07 035008.png](https://github.com/Vitorhrds2/relatorio-tecnico/blob/main/Screenshots/Screenshot%202023-08-07%20035008.png)
+
+![Screenshot 2023-08-07 041055.png](https://github.com/Vitorhrds2/relatorio-tecnico/blob/main/Screenshots/Screenshot%202023-08-07%20041055.png)
+
 Primeiro estou fazendo algumas mudanças no repositório local, criei a pasta Screenshots e copiei todas as capturas de tela feitas para o relatório até agora para a nova pasta. Em seguida adiciono os arquivos da pasta Screenshots ao “staged” digitando “git add Screenshots/” na linha de comando pois o diretório foi criado, mas o Git ainda não está rastreando o conteúdo. Após fazer com que o conteúdo seja rastreado, faço o commit descrevendo quais foram as mudanças locais feitas e que serão enviadas para a origem. As atualizações são mostradas corretamente.
+
+Depois de fazer o “commit” pude verificar o status do “branch” local, que estava com um commit à frente da origem, e sendo recomendado a realizar o “push(empurrar)” para que atualizasse o “branch” principal da origem.
+
+Realizando o “push” obtemos como resultado o número de objetos, o peso dos arquivos o nome do “commit” e de qual “branch” para qual foi feito o "push”.
+
+### Conclusão
+
+É uma etapa simples mas no meu caso foi um pouco trabalhoso pois decidi subir as imagens presentes no [README.md](http://README.md) para uma pasta dentro do diretório de origem e precisei ver como colocar o links das imagens corretamente e como adicionar os arquivos novos corretamente. No mais é um processo simples e que envolve fazer as alterações, “commitar”, verificar o status e realizar o push para o repositório e “branch” desejados.
+
+## Etapa 5: GitHub Branch
+
+### Objetivo
+
+O objetivo desta etapa é aprender sobre branches (ramificações) no GitHub e como eles são usados para desenvolver recursos isoladamente.
+
+### Resultados
+
+![Screenshot 2023-08-07 042208.png](https://github.com/Vitorhrds2/relatorio-tecnico/blob/main/Screenshots/Screenshot%202023-08-07%20042208.png)
+
+![Screenshot 2023-08-07 042219.png](https://github.com/Vitorhrds2/relatorio-tecnico/blob/main/Screenshots/Screenshot%202023-08-07%20042219.png)
+
+![Screenshot 2023-08-07 042313.png](https://github.com/Vitorhrds2/relatorio-tecnico/blob/main/Screenshots/Screenshot%202023-08-07%20042313.png)
+
+![Screenshot 2023-08-07 042449.png](https://github.com/Vitorhrds2/relatorio-tecnico/blob/main/Screenshots/Screenshot%202023-08-07%20042449.png)
+
+![Screenshot 2023-08-07 042759.png](https://github.com/Vitorhrds2/relatorio-tecnico/blob/main/Screenshots/Screenshot%202023-08-07%20042759.png)
+
+Nesta etapa eu criei uma nova “branch” baseada na main. Dentro dela, realizei uma alteração no final do arquivo [README.md](http://README.md) através do editor de código do GitHub, comparei as alterações com a versão anterior e fiz o “commit” direto na branch-secundaria.
+
+### Conclusão
+
+Criar uma ramificação pela interface do GitHub é bem simples, realizar alterações e verificá-las não envolve muitos recursos, uma nova ramificação é útil para criar cópias de um projeto e com isso trabalhar em versões diferentes sem interferir nas outras versões.
+
+## Etapa 6: Pull Branch from GitHub
+
+### Objetivo
+
+O objetivo desta etapa é aprender como fazer um pull de uma branch específica do repositório remoto para o repositório local.
+
+### Resultados
+
+![Screenshot 2023-08-07 044011.png](https://github.com/Vitorhrds2/relatorio-tecnico/blob/main/Screenshots/Screenshot%202023-08-07%20044011.png)
+
+![Screenshot 2023-08-07 044042.png](https://github.com/Vitorhrds2/relatorio-tecnico/blob/main/Screenshots/Screenshot%202023-08-07%20044042.png)
+
+![Screenshot 2023-08-07 044102.png](https://github.com/Vitorhrds2/relatorio-tecnico/blob/main/Screenshots/Screenshot%202023-08-07%20044102.png)
+
+![Screenshot 2023-08-07 044129.png](https://github.com/Vitorhrds2/relatorio-tecnico/blob/main/Screenshots/Screenshot%202023-08-07%20044129.png)
+
+![Screenshot 2023-08-07 044223.png](https://github.com/Vitorhrds2/relatorio-tecnico/blob/main/Screenshots/Screenshot%202023-08-07%20044223.png)
+
+![Screenshot 2023-08-07 044302.png](https://github.com/Vitorhrds2/relatorio-tecnico/blob/main/Screenshots/Screenshot%202023-08-07%20044302.png)
+
+![Screenshot 2023-08-07 044313.png](https://github.com/Vitorhrds2/relatorio-tecnico/blob/main/Screenshots/Screenshot%202023-08-07%20044313.png)
+
+Depois de criar uma branch através da interface, podemos ver que ela está disponível utilizando a linha de comando. Utilizo o “git pull” para puxar as alterações existente e logo percebo que uma nova branch foi criada.
+
+Utilizando o “git status” percebe-se que a “branch” main é o meio de comparação com o reposítório de origem.
+
+Para confirmar as “branches” que tenho e estou trabalhando no momento, utilizo o comando “git branch”.
+
+Como resultado é visível que não aparece a branch-secundaria que foi criada na seção 5, apenas a “branch” main é mostrada pois aqui consultamos apenas as locais. Para ver tanto as “branches” locais quantos as remotas, digito “git branch -a”.
+
+Verifiquei que a branch-secundaria está disponível remotamente, mas não no git local. Utilizando o comando “git checkout branch-secundaria” trocamos de “branch” de trabalho para a nova que foi criada. Para verificar se está tudo atualizado eu digito “git pull” novamente.
+
+Utilizando o “git branch” de novo, verifiquei que ambas ramificações estão disponíveis localmente e atualmente a branch-secundária é a de trabalho.
+
+### Conclusão
+
+Foi um processo muito interessante pois entendi o valor de puxar uma branch ramota para trabalhar localmente nela, isso me possibilita trabalhar de forma muito mais prática com outras pessoas. O tutorial foi bem intuitivo e relevante.
+
+## Etapa 7: Push Branch to GitHub
+
+### Objetivo
+
+O objetivo desta etapa é aprender como fazer um push do código da branch local para o repositório remoto no GitHub.
+
+### Resultados
+
+![Screenshot 2023-08-07 051102.png](https://github.com/Vitorhrds2/relatorio-tecnico/blob/main/Screenshots/Screenshot%202023-08-07%20051102.png)
+
+![Screenshot 2023-08-07 051138.png](https://github.com/Vitorhrds2/relatorio-tecnico/blob/main/Screenshots/Screenshot%202023-08-07%20051138.png)
+
+![Screenshot 2023-08-07 051215.png](https://github.com/Vitorhrds2/relatorio-tecnico/blob/main/Screenshots/Screenshot%202023-08-07%20051215.png)
+
+![Screenshot 2023-08-07 051336.png](https://github.com/Vitorhrds2/relatorio-tecnico/blob/main/Screenshots/Screenshot%202023-08-07%20051336.png)
+
+![Screenshot 2023-08-07 051507.png](https://github.com/Vitorhrds2/relatorio-tecnico/blob/main/Screenshots/Screenshot%202023-08-07%20051507.png)
+
+![Screenshot 2023-08-07 051631.png](https://github.com/Vitorhrds2/relatorio-tecnico/blob/main/Screenshots/Screenshot%202023-08-07%20051631.png)
+
+![Screenshot 2023-08-07 051718.png](https://github.com/Vitorhrds2/relatorio-tecnico/blob/main/Screenshots/Screenshot%202023-08-07%20051718.png)
+
+![Screenshot 2023-08-07 051805.png](https://github.com/Vitorhrds2/relatorio-tecnico/blob/main/Screenshots/Screenshot%202023-08-07%20051805.png)
+
+![Screenshot 2023-08-07 052445.png](https://github.com/Vitorhrds2/relatorio-tecnico/blob/main/Screenshots/Screenshot%202023-08-07%20052445.png)
+
+![Screenshot 2023-08-07 052240.png](https://github.com/Vitorhrds2/relatorio-tecnico/blob/main/Screenshots/Screenshot%202023-08-07%20052240.png)
+
+Nesta seção eu criei uma nova “branch” para enviar ao GitHub. Para criar utilizo o comando “git checkou update-readme”.
+
+Atualizei o arquivo [README.md](http://README.md) com as duas seções anteriores e depois verifiquei o status com o comando “git status”. Aqui foi possível verificar que as alterações foram lidas, e fui alertado que as mudanças não foram ao “staging” para serem “commitadas”. Para isso preciso utilizar o comando git add README.md.
+
+Depois de deixar o README no “staging”, preciso verificar o status do git com “git status”, então foi perceptível que as alterações estavam prontas para serem “commitadas”. Para fazer o commit, é como das outras vezes, utilizei ‘ “git commit -m "Atualização do README da branch-secundaria” ’.
+
+De pois do “commit”, fui realizar o push com: “git push origin update-readme”. Em seguida foi possível ver o processo das alterações sendo enviadas como solicitações de “push” e agora existem 3 branches no repositório.
+
+Ao clicar em “Compare & pull request” vi as alterações feitas com comparações. Após verificar as alterações estive apto a criar o “pull request(solicitação para puxar)” que é quando proponho mudanças ao repositório.
+
+Sendo meu próprio repositório, eu mesmo pude fazer a mesclagem do “pull request” solicitado.
+
+Depois de ter feito o “merge(mesclar)” alguns elementos que antes estavam verde, ficaram roxos e a junção foi confirmada pela interface.
+
+Para evitar confusões e excesso de arquivos, resolvi deletar a ramificação “update-reademe” e “branch-secundaria”, pois agoratudo está na ramificação principal, a “main”.
+
+### Conclusão
+
+A funcionalidade de mandar “branhes” para o GitHub entrega inúmeras possibilidades de contribuição dentre equipes de forma que uma ou mais pessoas responsáveis pelo repositório aceitem novas adições ou modificações de forma segura e com o máximo controle de versões remoto.
+
+## Conclusão Geral
+
+De forma geral o tutorial foi de grande valia, me trouxe segurança em utilizar o Git e o GitHub através da linha de comando, durante a realização do tutorial percebi outros efeitos que podem ocasionar falhas ou atrasos na execução de um comando e consegui resolvê-los. É perceptiível o valor do controle de versões de projetos, eles precisam estar seguros, especialmente em desenvolvimento escalado, no qual múltiplas equipes trabalham entregando partes diferentes de uma mesma plataforma, aplicação, protótipo, dentre outros. Foi um conhecimento que será aplicado em projetos futuros, de forma recorrente. Estive utilzando controle de versão de forma que não garantisse um backup seguro de cada alteração realizada, por menor que fosse, e agora planejo unir a prática mais recorrente de controle de versão à uma estrutura mais limpa e organizada aos projetos futuros.
