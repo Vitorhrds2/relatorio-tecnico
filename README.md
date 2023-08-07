@@ -108,8 +108,8 @@ O objetivo desta etapa é aprender como fazer um push (enviar) do código do rep
 
 ### Resultados
 
-![Screenshot 2023-08-07 005346.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/10859508-3e54-4494-969a-64ae87030be5/Screenshot_2023-08-07_005346.png)
+![Screenshot 2023-08-07 005346.png](https://github.com/Vitorhrds2/relatorio-tecnico/blob/main/Screenshots/Screenshot%202023-08-07%20005346.png)
 
-![Screenshot 2023-08-07 010211.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/98da0fb0-b3d8-4da6-b3e6-2e0cd185ab75/Screenshot_2023-08-07_010211.png)
+![Screenshot 2023-08-07 010211.png](https://github.com/Vitorhrds2/relatorio-tecnico/blob/main/Screenshots/Screenshot%202023-08-07%20010211.png)
 
 Primeiro estou fazendo algumas mudanças no repositório local, criei a pasta Screenshots e copiei todas as capturas de tela feitas para o relatório até agora para a nova pasta. Em seguida adiciono os arquivos da pasta Screenshots ao “staged” digitando “git add Screenshots/” na linha de comando pois o diretório foi criado, mas o Git ainda não está rastreando o conteúdo. Após fazer com que o conteúdo seja rastreado, faço o commit descrevendo quais foram as mudanças locais feitas e que serão enviadas para a origem. As atualizações são mostradas corretamente.
