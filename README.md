@@ -113,3 +113,11 @@ O objetivo desta etapa é aprender como fazer um push (enviar) do código do rep
 ![Screenshot 2023-08-07 010211.png](https://github.com/Vitorhrds2/relatorio-tecnico/blob/main/Screenshots/Screenshot%202023-08-07%20010211.png)
 
 Primeiro estou fazendo algumas mudanças no repositório local, criei a pasta Screenshots e copiei todas as capturas de tela feitas para o relatório até agora para a nova pasta. Em seguida adiciono os arquivos da pasta Screenshots ao “staged” digitando “git add Screenshots/” na linha de comando pois o diretório foi criado, mas o Git ainda não está rastreando o conteúdo. Após fazer com que o conteúdo seja rastreado, faço o commit descrevendo quais foram as mudanças locais feitas e que serão enviadas para a origem. As atualizações são mostradas corretamente.
+
+Depois de fazer o “commit” pude verificar o status do “branch” local, que estava com um commit à frente da origem, e sendo recomendado a realizar o “push(empurrar)” para que atualizasse o “branch” principal da origem.
+
+Realizando o “push” obtemos como resultado o número de objetos, o peso dos arquivos o nome do “commit” e de qual “branch” para qual foi feito o "push”.
+
+### Conclusão
+
+É uma etapa simples mas no meu caso foi um pouco trabalhoso pois decidi subir as imagens presentes no [README.md](http://README.md) para uma pasta dentro do diretório de origem e precisei ver como colocar o links das imagens corretamente e como adicionar os arquivos novos corretamente. No mais é um processo simples e que envolve fazer as alterações, “commitar”, verificar o status e realizar o push para o repositório e “branch” desejados.
